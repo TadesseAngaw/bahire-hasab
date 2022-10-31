@@ -1,4 +1,4 @@
-![ባህረ ሐሳብ](images/main screen.png)
+![ባህረ ሐሳብ](images/main-screen.png)
 
 
 # ባህረ ሐሳብ
