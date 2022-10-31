@@ -1,4 +1,4 @@
-![Bahire Hasab](images/main screen.png)
+![Bahire Hasab](images/main screen.png?raw=true "Bahire Hasab")
 
 
 # Bahire Hasab
