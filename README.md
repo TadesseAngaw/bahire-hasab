@@ -33,14 +33,14 @@ Holidays and fasting days are calculated with Bahire Hasab formula which was pre
 
 **I will prepare better getting started documentation later**
 
-##Roadmap
+## Roadmap
 - [ ] Release installers for Windows and macOS
 - [ ] Improve Gregorian date conversion logic
 - [ ] Improve geez to Arabic number conversion logic
 - [ ] Release **EthiopianCalendar** class (which performs most of bahire hasab calculations) as a separate library for Java and Kotlin
 
 
-##Known Issues
+## Known Issues
 I saw the app has some conversion issues while converting Ethiopian dates to Gregorian. Which happens when trying to convert dates around January. This is because I used custom calculation to convert dates without setting any reference date to convert. I will improve the logic if possible or I will use specific date references for conversion.
 
 ## Sister Project
